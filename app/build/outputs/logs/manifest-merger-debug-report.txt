@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1f49df52777abddbc191bac5dc4aab79\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4072aa31d65a3af4b0d5513d98b4a2dc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be9e3a3850c97f3ca86c781e6be59c77\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0d241cb31d5229a8b3a32f0fbf497a99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\edb74a4f25e697270c0d28eede839886\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\87308b5f8e58bde41046edcb3974759e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cbbe9dd0c357c199b3f21182dc4d56f1\AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\965e5f2a1fab2058c3e71d8aa785efac\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1f49df52777abddbc191bac5dc4aab79\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1f49df52777abddbc191bac5dc4aab79\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4072aa31d65a3af4b0d5513d98b4a2dc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4072aa31d65a3af4b0d5513d98b4a2dc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:25:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be9e3a3850c97f3ca86c781e6be59c77\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be9e3a3850c97f3ca86c781e6be59c77\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\edb74a4f25e697270c0d28eede839886\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\edb74a4f25e697270c0d28eede839886\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\87308b5f8e58bde41046edcb3974759e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\87308b5f8e58bde41046edcb3974759e\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cbbe9dd0c357c199b3f21182dc4d56f1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cbbe9dd0c357c199b3f21182dc4d56f1\AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\965e5f2a1fab2058c3e71d8aa785efac\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\965e5f2a1fab2058c3e71d8aa785efac\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.androidchatapp.SplashScreenActivity
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:15:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.androidchatapp.Register
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:23:9-25:41
+	android:label
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:25:13-38
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:24:13-37
+activity#com.androidchatapp.Users
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:26:9-29:15
+	android:label
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:28:13-34
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:27:13-34
+activity#com.androidchatapp.Chat
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:30:9-32:41
+	android:label
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:32:13-38
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:31:13-33
+activity#com.androidchatapp.Login
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:33:9-43
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:33:19-40
+activity#com.androidchatapp.UserProfileActivity
+ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:34:9-36:84
+	android:theme
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml:35:13-48
+uses-sdk
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1f49df52777abddbc191bac5dc4aab79\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\1f49df52777abddbc191bac5dc4aab79\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4072aa31d65a3af4b0d5513d98b4a2dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4072aa31d65a3af4b0d5513d98b4a2dc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be9e3a3850c97f3ca86c781e6be59c77\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\be9e3a3850c97f3ca86c781e6be59c77\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0d241cb31d5229a8b3a32f0fbf497a99\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0d241cb31d5229a8b3a32f0fbf497a99\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\edb74a4f25e697270c0d28eede839886\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\edb74a4f25e697270c0d28eede839886\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\87308b5f8e58bde41046edcb3974759e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\87308b5f8e58bde41046edcb3974759e\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cbbe9dd0c357c199b3f21182dc4d56f1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cbbe9dd0c357c199b3f21182dc4d56f1\AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\965e5f2a1fab2058c3e71d8aa785efac\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\965e5f2a1fab2058c3e71d8aa785efac\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\15-1946\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\651cfc079679e163aa829268c55f480d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\15-1946\Documents\AndroidStudioProjects\AndroidChatApp\app\src\main\AndroidManifest.xml
